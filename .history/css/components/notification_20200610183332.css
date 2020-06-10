@@ -37,12 +37,6 @@
 .notification .notification-actions a:hover {
 	color: #555555;
 }
-.notification .notification-done a {
-	color: #579E76;
-}
-.notification .notification-done a:hover {
-	color: #335C45;
-}
 .notification:last-child {
   border-bottom: none;
 }
